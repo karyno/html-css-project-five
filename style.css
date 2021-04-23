@@ -66,6 +66,7 @@ flex: 1;
     margin-bottom: 30px;
     font-size: 13px;
     line-height: 1.5rem;
+    cursor: pointer;
 }
 
 .purple-button{
@@ -113,6 +114,7 @@ form{
     font-size: 13px;
     margin-bottom: 0;
     padding: 5px;
+    cursor: pointer;
 }
 
 .button-two:hover{
@@ -131,9 +133,9 @@ form{
 }
 
 .error-icon{
-    /* display: block; */
     position: absolute;
-    right: 10%;
+    right: 15%;
+    top: 50px;
 }
 
 small{
